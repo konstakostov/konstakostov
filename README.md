@@ -1,9 +1,16 @@
-# Hi there 👋
+<div id="header" align="center"">
+    <h1>Hi there 👋</h1>
+    <div">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzNtcmxlMWtxaGY0Y2xtcmRndW1hcWIwa3V5OHh6c255ZnE4NnM2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500", height="400"/>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFrNmIwcHNyYTl2ZjFiNzZkZThoaGQ5dmM2bnB1OTdnZGJid3ZkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LqW9dLVjQm3cs/giphy.gif" width="500", height="400">
+    </div>
+</div>
 
 ---
 
 ### About Me
-Hi there! I'm an aspiring Python Developer with a background in Telecommunications, holding a MEng degree. I am doing my best at coding when I am listening to music. 🎸 🤘 
+Hi there! I'm an aspiring Python Developer with a background in Telecommunications, holding a MEng degree. <br>
+I am doing my best at coding when I am listening to music. 🎸 🤘 
 
 ---
 
