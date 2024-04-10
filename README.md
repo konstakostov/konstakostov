@@ -22,7 +22,8 @@ I'm an aspiring Python Developer with a background in Telecommunications, holdin
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Django_logo.png" title="Django" alt="django" width="60" height="50"/>&nbsp;  
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="css3" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="50" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHUb" alt="github" width="50" height="50"/>&nbsp;
 </div>
 
 ---
