@@ -41,10 +41,13 @@ I'm an aspiring Python Developer with a background in Telecommunications, holdin
 
 ---
 
-## 🔥 GitHub Streak:
+## 🔥 GitHub Stats:
 <div>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=konstakostov&theme=dark&hide_border=true&fire=EB0000" alt="GitHub Streak" /></a>
 </div>
-
-
-
+<div>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=konstakostov&show_icons=true&theme=dark&hide_border=true&rank_icon=github" alt="GitHub Readme Stats" /></a>
+</div>
+<div>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konstakostov&layout=donut&theme=dark&hide_border=true" alt="GitHub Top Languages" /></a>
+</div>
