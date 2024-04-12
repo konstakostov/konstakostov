@@ -25,35 +25,21 @@
 
 ---
 
-<div id="languages-and-tools" align="center">
+<div id="languages-and-tools" align="center" background-color="#f0f0f0">
     <h2>
         🛠️ Languages & Tools:
     </h2>
     <div id="languages-and-tools-logos">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python" width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="JupyterNotebook" alt="jupyternotebook" width="50" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="postgresql" width="50" height="50"/>&nbsp;
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Django_logo.png" title="Django" alt="django" width="60" height="50"/>&nbsp;  
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="50" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="css3" width="50" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="50" height="50"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHUb" alt="github" width="50" height="50"/>&nbsp;
-    </div>
-</div>
-
----
-
-<div id="specialised-software" align="center">
-    <h2>
-         ⚒️ Specialized Software
-    </h2>
-    <div id="specialised-software-logos">
-        <img src="https://www.pspice.com/sites/default/files/logo.png" title="PSpice" alt="PSpice" width="60" height="50"/>&nbsp;
-        <img src="https://www.artedas.eu/images/logos/Cadence-OrCAD_logo.png" title="OrCAD" alt="OrCAD" width="60" height="50"/>&nbsp;
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/AutoCad_logo.svg/100px-AutoCad_logo.svg.png" title="AutoCAD" alt="AutoCAD" width="80" height="50"/>&nbsp;
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Sw_hrz_4cp_red_wht.tif/lossless-page1-320px-Sw_hrz_4cp_red_wht.tif.png" title="SOLIDWORKS" alt="SOLIDWORKS" width="80" height="50"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="50" height="50"/>&nbsp;
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" title="GNU Octave" alt="GNU Octave" width="50" height="50"/>&nbsp;
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732222.png" title="Office Suite" alt="Office Suite" width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="git" width="50" height="50"/>&nbsp;
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" title="GitHub" alt="github" width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="linux" width="50" height="50"/>&nbsp;
     </div>
 </div>
 
