@@ -53,7 +53,7 @@
         <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=konstakostov&theme=dark&hide_border=true&fire=EB0000" alt="GitHub Streak" /></a>
     </div>
     <div id="readme-stats">
-        <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img src="https://github-readme-stats.vercel.app/api?username=konstakostov&show_icons=true&theme=dark&hide_border=true&rank_icon=default" alt="GitHub Readme Stats" /></a>
+        <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img src="https://github-readme-stats.vercel.app/api?username=konstakostov&show_icons=true&theme=dark&hide_border=true&rank_icon=github" alt="GitHub Readme Stats" /></a>
     </div>
     <div id="top-languages">
         <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konstakostov&layout=donut&theme=dark&hide_border=true" alt="GitHub Top Languages" /></a>
